@@ -128,11 +128,10 @@ public class CalculatorTest {
         double resultDiv = mCalculator.div(10d, 2d);
         assertThat(resultDiv, is(equalTo(5d)));
     }
+
+    @Test
+            (expected = IllegalArgumentException.class)
+    public void divByZeroThrows() {
+        mCalculator.div(32d, 0);
+    }
 }
-////
-////    @Test
-////    public void div_by_zero_throws() {
-////        double resultDiv = mCalculator.div(2d,0d);
-////        assertThat(resultDiv, is(equalTo()));
-////    }
-//}

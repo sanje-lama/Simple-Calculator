@@ -18,9 +18,46 @@
     <list default="true" id="053fca1c-cde0-4cfe-8920-9c6ee6bf92e6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/build-info/debug/build-info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/SimpleCalc/Calculator$Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/SimpleCalc/Calculator$Operator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/SimpleCalc/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/SimpleCalc/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/SimpleCalc/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/SimpleCalc/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/SimpleCalc/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/android/SimpleCalc/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/test/debug/com/example/android/SimpleCalc/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/test/debug/com/example/android/SimpleCalc/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/android/SimpleCalc/Calculator$Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/android/SimpleCalc/Calculator$Operator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/android/SimpleCalc/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/android/SimpleCalc/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/android/SimpleCalc/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/android/SimpleCalc/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/android/SimpleCalc/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/android/SimpleCalc/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/ir_slices/debug/package_slice_3/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_3.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51/com/example/android/SimpleCalc/Calculator$Operator.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51/com/example/android/SimpleCalc/Calculator$Operator.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51/com/example/android/SimpleCalc/Calculator.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51/com/example/android/SimpleCalc/Calculator.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51/com/example/android/SimpleCalc/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51/com/example/android/SimpleCalc/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51/com/example/android/SimpleCalc/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/51/com/example/android/SimpleCalc/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/3/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/example/android/SimpleCalc/Calculator$Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/example/android/SimpleCalc/Calculator$Operator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/example/android/SimpleCalc/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/example/android/SimpleCalc/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/example/android/SimpleCalc/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/example/android/SimpleCalc/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/example/android/SimpleCalc/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/0/com/example/android/SimpleCalc/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/buildId.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/example/android/SimpleCalc/Calculator$Operator.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/example/android/SimpleCalc/Calculator$Operator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/example/android/SimpleCalc/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/example/android/SimpleCalc/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/example/android/SimpleCalc/MainActivity$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/example/android/SimpleCalc/MainActivity$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/example/android/SimpleCalc/MainActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/3/com/example/android/SimpleCalc/MainActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,29 +83,13 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+            <state relative-caret-position="232">
+              <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2822#2823#0" expanded="true" />
+                <element signature="e#2870#2871#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -76,20 +97,11 @@
       <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="137" column="3" lean-forward="true" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+            <state relative-caret-position="368">
+              <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
               <folding>
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#3537#3538#0" expanded="true" />
+                <element signature="e#3576#3577#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,7 +110,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
+            <state relative-caret-position="327">
               <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
             </state>
           </provider>
@@ -110,8 +122,8 @@
       <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+            <state relative-caret-position="322">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
             </state>
           </provider>
         </entry>
@@ -2142,10 +2154,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Math.java" />
-        <option value="$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -2163,8 +2176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -2197,7 +2208,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2245,29 +2258,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="CalculatorTest.addTwoNumbers" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="app" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.android.SimpleCalc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.example.android.SimpleCalc" />
-      <option name="MAIN_CLASS_NAME" value="com.example.android.SimpleCalc.CalculatorTest" />
-      <option name="METHOD_NAME" value="addTwoNumbers" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="CalculatorTest.add_two_number_floats" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -2290,6 +2280,33 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="CalculatorTest.divByZeroThrows" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.android.SimpleCalc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.example.android.SimpleCalc" />
+      <option name="MAIN_CLASS_NAME" value="com.example.android.SimpleCalc.CalculatorTest" />
+      <option name="METHOD_NAME" value="divByZeroThrows" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration name="CalculatorTest.div_by_zero_throws" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
@@ -2437,19 +2454,19 @@
     </configuration>
     <list>
       <item itemvalue="Android App.app" />
-      <item itemvalue="Android JUnit.CalculatorTest.addTwoNumbers" />
       <item itemvalue="Android JUnit.CalculatorTest" />
       <item itemvalue="Android JUnit.CalculatorTest.add_two_number_floats" />
       <item itemvalue="Android JUnit.CalculatorTest.div_by_zero_throws" />
       <item itemvalue="Android JUnit.CalculatorTest.div_two_numbers_zero" />
+      <item itemvalue="Android JUnit.CalculatorTest.divByZeroThrows" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit.CalculatorTest.divByZeroThrows" />
         <item itemvalue="Android JUnit.CalculatorTest" />
         <item itemvalue="Android JUnit.CalculatorTest.div_two_numbers_zero" />
         <item itemvalue="Android JUnit.CalculatorTest.div_by_zero_throws" />
         <item itemvalue="Android JUnit.CalculatorTest.add_two_number_floats" />
-        <item itemvalue="Android JUnit.CalculatorTest.addTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -2467,18 +2484,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest_div_by_zero_throws - 2018.11.18 at 17h 47m 10s.xml">
-      <configuration name="CalculatorTest.div_by_zero_throws" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2018.11.18 at 17h 59m 51s.xml">
-      <configuration name="CalculatorTest" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest - 2018.11.18 at 18h 00m 48s.xml">
-      <configuration name="CalculatorTest" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="CalculatorTest_div_two_numbers_zero - 2018.11.18 at 18h 01m 22s.xml">
-      <configuration name="CalculatorTest.div_two_numbers_zero" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="CalculatorTest_div_two_numbers_zero - 2018.11.18 at 18h 03m 04s.xml">
       <configuration name="CalculatorTest.div_two_numbers_zero" configurationId="AndroidJUnit" />
     </history-entry>
@@ -2497,6 +2502,18 @@
     <history-entry file="CalculatorTest - 2018.11.18 at 18h 12m 32s.xml">
       <configuration name="CalculatorTest" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="CalculatorTest_divByZeroThrows - 2018.11.18 at 22h 20m 21s.xml">
+      <configuration name="CalculatorTest.divByZeroThrows" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_divByZeroThrows - 2018.11.18 at 22h 25m 00s.xml">
+      <configuration name="CalculatorTest.divByZeroThrows" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_divByZeroThrows - 2018.11.18 at 22h 25m 48s.xml">
+      <configuration name="CalculatorTest.divByZeroThrows" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_divByZeroThrows - 2018.11.18 at 22h 26m 04s.xml">
+      <configuration name="CalculatorTest.divByZeroThrows" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2509,8 +2526,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="730" y="23" width="710" height="804" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
@@ -2518,14 +2536,14 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Preview" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Logcat" order="7" weight="0.32969698" />
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37574852" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.008982036" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3281471" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -2542,11 +2560,11 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32848486" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3281471" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32969698" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32956153" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Android Profiler" order="8" />
@@ -2562,9 +2580,9 @@
       <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Logcat" order="10" weight="0.32969698" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Gradle" order="6" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13233191" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.008982036" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -2916,37 +2934,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="137" column="3" lean-forward="true" selection-start-line="137" selection-start-column="3" selection-end-line="137" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2967,6 +2954,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -2978,12 +2972,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/example/android/SimpleCalc/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+          <folding>
+            <element signature="e#3537#3538#0" expanded="true" />
+            <element signature="e#3576#3577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/SimpleCalc/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+        <state relative-caret-position="232">
+          <caret line="144" lean-forward="true" selection-start-line="144" selection-end-line="144" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2822#2823#0" expanded="true" />
+            <element signature="e#2870#2871#0" expanded="true" />
           </folding>
         </state>
       </provider>

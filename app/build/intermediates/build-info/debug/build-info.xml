@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="3.1.4"
-    timestamp="1542582761246"
+    timestamp="1542598092839"
     token="5746058306800572592"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -25,7 +25,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1542580497626"
+        timestamp="1542597544741"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/stl/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -69,7 +69,16 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1542582761246"
+        ir-eligibility="COMPATIBLE"
+        timestamp="1542598031132"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/stl/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1542598092839"
         verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

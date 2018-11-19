@@ -82,9 +82,10 @@ public class MainActivity extends Activity {
         } catch (IllegalArgumentException iae) {
             Log.e(TAG, "IllegalArgumentException", iae);
             mResultTextView.setText(getString(R.string.computationError));
+        } catch (IllegalAccessError illegalAccessError)  {
+            Log.e(TAG, "Try again" );
         }
     }
-
     /**
      * OnClick method called when the multiply Button is pressed.
      */
