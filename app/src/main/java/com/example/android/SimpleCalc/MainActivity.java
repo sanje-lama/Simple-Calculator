@@ -101,6 +101,7 @@ public class MainActivity extends Activity {
         } catch (NumberFormatException nfe) {
             Log.e(TAG, "NumberFormatException", nfe);
             mResultTextView.setText(getString(R.string.computationError));
+
             return;
         }
 
