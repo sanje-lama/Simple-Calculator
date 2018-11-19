@@ -24,6 +24,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+
+
 /**
  * SimpleCalc is the initial version of SimpleCalcTest.  It has
  * a number of intentional oversights for the student to debug/fix,
@@ -43,6 +45,7 @@ public class MainActivity extends Activity {
     private EditText mOperandTwoEditText;
 
     private TextView mResultTextView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

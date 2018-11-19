@@ -5,32 +5,27 @@
     build-mode="COLD"
     density="420dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
     plugin-version="3.1.4"
-    timestamp="1542496819441"
+    timestamp="1542582761246"
     token="5746058306800572592"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="138" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="34" />
+        duration="0" />
     <task
         name="verifier"
-        duration="5" />
-
-    <artifact
-        location="/Users/stl/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-        type="SPLIT" />
+        duration="0" />
 
     <build
         build-mode="FULL"
-        timestamp="1542493875271"
+        timestamp="1542580497626"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/stl/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -74,12 +69,7 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1542496819441"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/stl/Downloads/android-fundamentals-starter-apps-v2-master/SimpleCalc/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-    </build>
+        timestamp="1542582761246"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
